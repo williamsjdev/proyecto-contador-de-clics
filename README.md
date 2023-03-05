@@ -1,6 +1,10 @@
 Creacion de un contador de clics aplicando los lenguajes basicos de programacion HTML,CSS y JavaScript con la ayuda de React y Node.
 con este proyecto, doy una breve vista a el funcionaminento basico de funciones flechas, props y useState. 
 
+![Vista previa del contador](https://raw.githubusercontent.com/williamsjdev/
+proyecto-contador-de-clics
+/main/assets/Captura contador de clics.PNG)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
